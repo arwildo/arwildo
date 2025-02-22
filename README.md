@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arwildo/arwildo/refs/heads/master/assets/img/about-arwildo.png"></img>
+  <img src="https://github.com/arwildo/arwildo/blob/master/assets/img/about.png?raw=true"></img>
 </p>
