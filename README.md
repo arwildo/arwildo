@@ -5,7 +5,8 @@
     </head>
     <body>
         <about>
-            Experienced Software Engineer with 6+ years in full-stack development, specializing in scalable software and web applications.
+            Experienced Software Engineer with 6+ years in full-stack development,
+            specializing in scalable software and web applications.
         </about>
         <stack>
             <languages>Java, JavaScript, Python, PHP, SQL</languages>
